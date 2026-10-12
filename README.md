@@ -55,7 +55,7 @@ These findings are descriptive and do not establish statistical significance or 
 
 ## Project Files
 
-The repository contains the Excel workbook used for the exploratory data analysis, including research questions, data quality checks, crop production comparisons, and trend analysis.
+Somalia_Agriculture_EDA.xlsx — Excel workbook containing the agricultural dataset, research questions, exploratory analysis, findings, and charts.
 
 ## Conclusion
 
