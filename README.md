@@ -55,7 +55,7 @@ These findings are descriptive and do not establish statistical significance or 
 
 ## Project Files
 
-The Excel workbook and supporting project documentation will be added to this repository.
+The repository contains the Excel workbook used for the exploratory data analysis, including research questions, data quality checks, crop production comparisons, and trend analysis.
 
 ## Conclusion
 
@@ -65,4 +65,4 @@ Further investigation and additional contextual data would be needed to explain 
 
 ## Author
 
-Abdulkadir Ahmed
+Abdulkadir Ahmed Hussein
